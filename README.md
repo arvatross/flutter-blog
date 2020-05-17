@@ -4,7 +4,7 @@ This is my first blog design in Flutter.
 
 ## Screenshot
 
-![The Blog Screenshot](https://github.com/arvatross/flutter-blog/raw/master/assets/screenshot.png "The Blog Screenshot")
+![The Blog Screenshot](https://github.com/arvatross/flutter-blog/raw/master/assets/screenshot.png =300x600)
 
 ## Getting Started
 
