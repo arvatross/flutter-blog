@@ -1,6 +1,6 @@
-# blog
+# The Blog
 
-A new Flutter project.
+This is my first blog design in Flutter.
 
 ## Getting Started
 
