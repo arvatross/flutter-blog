@@ -2,6 +2,10 @@
 
 This is my first blog design in Flutter.
 
+## Screenshot
+
+![The Blog Screenshot](https://github.com/arvatross/flutter-blog/raw/master/assets/screenshot.png = 300x)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
